@@ -14,7 +14,6 @@
   <a href="https://sakshimalkar.github.io/friendship-day/">🔗 Live Demo</a> • 
   <a href="#features">✨ Features</a> • 
   <a href="#-tech-stack">🛠️ Tech Stack</a> • 
-  <a href="#-how-to-run-locally">🚀 Setup</a>
 </p>
 
 ---
@@ -62,32 +61,22 @@ A heartfelt, interactive webpage designed to surprise and celebrate a best frien
   </tr>
 </table>
 
-```
+
+## 👩‍💻 Author
+
+<div align="center">
+
+**Sakshi Malkar**
+Full Stack Developer | Python · FastAPI · React.js
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sakshi-malkar)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/sakshimalkar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00f0d0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sakshimalkar.github.io/portfolio)
+
+</div>
 
 ---
 
-## 👨‍💻 Author
-
-<p align="center">
-  <b>Sakshi Malkar — Full Stack Developer | Python · FastAPI · React.js</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-malkar/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sakshimalkar">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://sakshimalkar.dev"> <!-- UPDATE THIS WITH YOUR ACTUAL PORTFOLIO URL -->
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-00d2ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  Built with 💖 using HTML5 · CSS3 · Bootstrap · JavaScript
-</p>
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/sakshimalkar/friendship-day.git
+<div align="center">
+  <sub>Built with ❤️ using FastAPI · SQLAlchemy · MySQL · Pydantic</sub>
+</div>
